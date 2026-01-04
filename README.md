@@ -10,7 +10,7 @@
     <p><strong>Click the chat bubble below to test the Codeless Zobot!</strong></p>
     <p>This demo shows how Zoho SalesIQ captures onboarding data from trial users and optimizes conversions.</p>
     
-    <!-- PASTE YOUR SALESIQ SCRIPT HERE (from SalesIQ → Settings → Brands → ConversIQ → Installation → Website → Copy this code) -->
+ <script>...'defer'></script>
     
 </body>
 </html>
