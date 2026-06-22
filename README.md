@@ -1,6 +1,6 @@
 # 🎯 ConversIQ — SaaS Onboarding Flow Optimizer
 
-> Built for **Zoho Cliqtrix 2025 National Hackathon** | 48 Hours | Team Project
+> Built for **Zoho Cliqtrix 2025 National Hackathon** | Solo Build | Bot-Building Competition
 
 ---
 
