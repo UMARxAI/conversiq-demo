@@ -35,6 +35,11 @@ contextual help — before they give up.
 ## 🌐 Live Demo
 👉 [Click here to interact with the Zobot](https://umarxai.github.io/conversiq-demo)
 
+
+## 📊 Presentation Slides
+   [View Project Slides](./ConversIQ_Slides.pdf)
+   
+
 ---
 
 ## 👤 Built By
