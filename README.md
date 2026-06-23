@@ -30,13 +30,13 @@ contextual help — before they give up.
 
 ---
 
+
+
+
+
+
 ## 🎬 Demo Video
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge)](https://github.com/user-attachments/assets/00d9e358-aab1-47c6-8ca0-fbafdd4f6324) 
-
-
-
-
-> 🔒 Live bot runs on Zoho SalesIQ — see demo video above for walkthrough
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge)](https://youtu.be/8IQ1Gbi84kg)
 
 
 
