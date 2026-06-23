@@ -32,7 +32,8 @@ contextual help — before they give up.
 
 
 
-
+## 🎬 Demo Video
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge)](https://github.com/user-attachments/assets/00d9e358-aab1-47c6-8ca0-fbafdd4f6324) 
 
 
 ## 🎬 Demo Video
